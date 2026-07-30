@@ -3,7 +3,7 @@
 An open-source [Claude Skill](https://docs.claude.com) that produces institutional-quality
 stock and ETF screening dashboards as interactive React artifacts.
 
-Built by [Jason Zou](https://github.com/jzou1).
+Built by [Jason Zou](https://github.com/JasonZou64920).
 
 ## What It Does
 
